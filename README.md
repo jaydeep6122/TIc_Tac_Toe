@@ -1,16 +1,14 @@
-# tictoc
+# Tic Tac Toe Game using Flutter
 
-A new Flutter project.
+A classic Tic Tac Toe game implemented using Flutter, a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Player vs Player: Enjoy a classic game with a friend locally.
+- Clean UI: Simple and intuitive design for a seamless gaming experience.
+- Responsive: Play on different screen sizes with a responsive layout.
+- Winner Detection: The game detects and announces the winner or a draw.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tic Tac Toe Screenshot](https://github.com/jaydeep6122/Tic_Tac_Toe/tree/main/Screenshots/Screenshots)
