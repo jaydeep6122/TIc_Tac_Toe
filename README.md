@@ -11,7 +11,7 @@ A classic Tic Tac Toe game implemented using Flutter, a UI toolkit for building 
 
 ## Screenshots
 
-[Tic Tac Toe Screenshot_1](https://github.com/jaydeep6122/Tic_Tac_Toe/blob/main/Screenshots/Screenshots/Screenshot_20240108_224351.jpg)
+https://github.com/jaydeep6122/Tic_Tac_Toe/blob/main/Screenshots/Screenshots/Screenshot_20240108_224351.jpg
 
 [Tic Tac Toe Screenshot_2_Add Player name](https://github.com/jaydeep6122/Tic_Tac_Toe/blob/main/Screenshots/Screenshots/Screenshot_20240108_224419.jpg)
 
